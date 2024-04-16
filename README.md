@@ -16,4 +16,6 @@ Bên cạnh đó có thể dùng thêm Blynk để bắn kết quả ghi nhận 
 
 Kết quả thu được: 
 
-![Uploading image.png…]()
+
+![image](https://github.com/Rabbitdang/ioTProject01/assets/86316571/5e5be873-6786-47ef-9f92-7579bb3ca2cb)
+
