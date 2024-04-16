@@ -14,3 +14,6 @@ Sau khi lắp được phần cứng như hướng dẫn trên thì chỉ cần 
 
 Bên cạnh đó có thể dùng thêm Blynk để bắn kết quả ghi nhận được lên cloude. Hướng dẫn chi tiết đọc file word đi kèm tài liệu 
 
+Kết quả thu được: 
+
+![Uploading image.png…]()
